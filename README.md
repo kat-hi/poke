@@ -27,9 +27,9 @@ It is highly recommended to heal your pokemon before starting a fight.<br> Due t
 The main window shows three options: [pokedex] [new fight] [exit game]
 - **pokedex**: You can have a look at your team. With clicking a radio button you'll see the chosen pokemon and its status. It may be that its "Kampfpunkte (KP)" are very low due to a recent fight. You can heal your pokemon with the provided button "heilen". If you wanted to heal all of your pokemon, make sure no radio button is enabled e.g. directly after opening your pokedex. If your pokemon evolves, you'll see it in your pokedex, too.
 - **starting a game**: There are 9 different pokemon that randomly attack you. You can choose your pokemon before starting a fight.
-- **Pokemon**: Every pokemon is either a "Pflanzenpokemon", a "Wasserpokemon" or a "Feuerpokemon". Every pokemon has learned two attacks: The first one is neutral (it's always the attack called "Tackle"), the other one is a type-specific one. If you choose a water-attack against a fire-pokemon, you'll cause more damage. Same with plant-attack against a water-typ and fire-attack against a plant-typ. 
+- **Pokemon**: Every pokemon is either a "Pflanzenpokemon", a "Wasserpokemon" or a "Feuerpokemon". Every pokemon has learned two attacks: The first one is neutral (it's always the attack called "Tackle"), the other one is a type-specific one. If you choose a water-attack against a fire-pokemon, you'll cause more damage. Same with plant-attack against a water-type and fire-attack against a plant-type. 
 - **"Volltreffer"** sometimes you may have luck and there will be a "Volltreffer" that provides you an advantage during your fight.
-- **Evolution** with every fight you won, your pokemon gains "Erfahrungspunkte". If your pokemon has got enough "Erfahrungspunkte", it will evolve into a stronger pokemon. It only takes 2-3 fights to test this feature. 
+- **Evolution** with every fight you win, your pokemon will gain "Erfahrungspunkte". If your pokemon has got enough "Erfahrungspunkte", it will evolve into a stronger pokemon. It only takes 2-3 fights to test this feature. 
 
 ## Sorry
 I am sorry for this language-mixture that happened because of a german task description and a deep focus on the code. ;-)
