@@ -1,5 +1,5 @@
 # poke
-small game-project with GUI based on Java
+small game project with GUI based on Java
 
 # OOP: "CREATE A NEW POKEMON GAME"
 This pokemon game was developed as part of the programming course at Beuth University of Applied Science. It is a simple game structure based on Java-SWING that provides a graphical user interface.
