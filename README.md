@@ -2,7 +2,7 @@
 small game project with GUI based on Java
 
 # OOP: "CREATE A NEW POKEMON GAME"
-This pokemon game was developed as part of the programming course at Beuth University of Applied Science. It is a simple game structure based on Java-SWING that provides a graphical user interface.
+This pokemon game was developed as part of the programming course at Beuth University of Applied Science. It's based on Java-SWING that provides a graphical user interface.
 
 ## HOW TO START | EXECUTION OF POKEMON.JAR 
 it may be that you first need to change file permissions to execute pokemon.jar:<br>
@@ -11,7 +11,7 @@ it may be that you first need to change file permissions to execute pokemon.jar:
 - ```java -jar pokemon.jar```    starting the game... <br>
 
 ## NOTES
-It is highly recommended to heal your pokemon before starting a fight.<br> Due to time restriction concerning developement of this code, there are no "level ups" with gaining "Erfahrungspunkte". Since I decided to implement pokemon evolution, it won't take too long and you'll see that your pokemon evolves. 
+It is highly recommended to heal your pokemon before starting a fight.<br> Due to time restriction there are no "level ups" with gaining "Erfahrungspunkte". Since I decided to implement pokemon evolution, it won't take too long and you'll see that your pokemon evolves.
 
 # CODE INFORMATION
 
